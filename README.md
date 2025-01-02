@@ -2,6 +2,7 @@
 
 **Overview**
 This project demonstrates how to containerize a web application using Docker and deploy it to AWS Elastic Beanstalk. The app is served via Nginx, and the deployment process leverages AWS-managed infrastructure for scalability and simplicity.
+![Screenshot 2025-01-02 205336](https://github.com/user-attachments/assets/d2f400de-85c4-4a0d-b13d-ea649a2913e9)
 
 ## Project Overview
 
